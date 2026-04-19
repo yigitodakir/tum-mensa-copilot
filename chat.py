@@ -1,7 +1,7 @@
-"""Campus Mensa Co-Pilot — interactive CLI chatbot.
+"""TUM Mensa Co-Pilot — interactive CLI chatbot.
 
 Usage:
-    python scripts/chat.py
+    python chat.py
 
 Type 'exit' or press Ctrl-D to quit.
 """
