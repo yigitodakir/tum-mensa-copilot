@@ -7,6 +7,7 @@ langchain
 langchain-aws
 langchain-core
 langgraph
+rich
 pytest
 pytest-httpx
 responses
