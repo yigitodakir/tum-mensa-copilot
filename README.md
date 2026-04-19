@@ -11,7 +11,6 @@ Grounded in live Mensa menus, your dietary profile, and your past preferences.
   <img alt="LLM" src="https://img.shields.io/badge/Claude-Sonnet%204.6-8A2BE2">
   <img alt="Runtime" src="https://img.shields.io/badge/AWS-Bedrock%20%7C%20S3-FF9900">
   <img alt="Framework" src="https://img.shields.io/badge/LangGraph-agent-1E8E3E">
-  <img alt="Status" src="https://img.shields.io/badge/status-hackathon%20MVP-orange">
 </p>
 
 </div>
