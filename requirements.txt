@@ -1,0 +1,12 @@
+boto3
+python-dotenv
+requests
+pydantic
+eval-type-backport
+langchain
+langchain-aws
+langchain-core
+langgraph
+pytest
+pytest-httpx
+responses
