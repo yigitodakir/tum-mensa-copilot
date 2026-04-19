@@ -67,7 +67,7 @@ The agent runs a bounded tool loop: Claude decides which tools to call, `ToolNod
 Requires Python 3.10+, an AWS account with Bedrock access, and an S3 bucket.
 
 ```bash
-git clone <this-repo> tum-food-copilot
+git clone https://github.com/yigitodakir/tum-mensa-copilot.git
 cd tum-food-copilot
 
 python -m venv .venv && source .venv/bin/activate
