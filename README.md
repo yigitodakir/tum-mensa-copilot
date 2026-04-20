@@ -67,7 +67,7 @@ Requires Python 3.10+, an AWS account with Bedrock access, and an S3 bucket.
 
 ```bash
 git clone https://github.com/yigitodakir/tum-mensa-copilot.git
-cd tum-food-copilot
+cd tum-mensa-copilot
 
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
